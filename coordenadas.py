@@ -77,6 +77,14 @@ def get_coordinates(char):
         coordinates = [(3,2), (2,1), (1,2), (2,3), (1,4), (2,5), (3,4), (2,3), (3,2)]
     elif char == '9':
         coordinates = [(1,1), (2,1), (3,2), (3,3), (3,4), (2,5), (1,4), (2,3), (3,3)]
+    elif char == '!':
+        coordinates = [(2,2), (2,3), (2,4), (2,5)] + get_coordinates('.')
+    elif char == '?':
+        coordinates = [(2,2), (2,3), (3,4), (2,5), (1,4)] + get_coordinates('.')
+    elif char == '.' or char == ',':
+        coordinates = [(2,1)]
+    elif char == '-':
+        coordinates = [(1,3), (2,3), (3,3)]
     elif char == ' ':
         coordinates = []
     else:
