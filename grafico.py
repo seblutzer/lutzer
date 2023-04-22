@@ -16,13 +16,9 @@ class Word:
         fig = plt.figure(figsize=(width, height))
         ax = fig.add_subplot(111)
 
-        last_idx = {}
-        for idx, (letter, group) in enumerate(self.df.groupby('letra')):
+        for _, group in self.df.groupby('letra'):
             group = group.reset_index(drop=True)
-            last_idx[letter] = len(group) - 1
             for i in range(len(group)-1):
-                if letter in ('!', '?') and i == last_idx[letter]:
-                    continue
                 ax.plot([group.loc[i, 'x'], group.loc[i+1, 'x']],
                         [group.loc[i, 'y'], group.loc[i+1, 'y']],
                         color='blue')
@@ -34,5 +30,6 @@ class Word:
         ax.grid(False)
         ax.set_xticks([])
         ax.set_yticks([])
+        #ax.axis('off')
 
         plt.show()
