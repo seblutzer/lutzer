@@ -27,4 +27,9 @@ class Word:
             group = group.reset_index(drop=True)
             ax.scatter(group['x'], group['y'], color='black')
 
+        ax.grid(False)
+        ax.set_xticks([])
+        ax.set_yticks([])
+        #ax.axis('off')
+
         plt.show()
