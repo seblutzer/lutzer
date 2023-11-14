@@ -10,3 +10,4 @@ windansea_beach_user_32.776424_-117.01015_result_32.83176_-117.28146,implicit,ca
 beach_user_32.776424_-117.01015_result_32.83176_-117.28146,explicit,categorical,categorical,0,True,0,True,True,Navigational
 sea_user_32.776424_-117.01015_result_32.83176_-117.28146,explicit,categorical,categorical,0,True,0,True,True,Navigational
 Northgate_user_32.79394596284677_-117.02055419648923_result_32.74712253498077_-117.0776270244245,implicit,chain_business,,-2,False,2,True,True,Acceptable
+bars_user_32.761575155334846_-117.14687855520339_result_32.76271848857157_-117.13038169172331,implicit,chain_business,categorical,-3,True,4,True,True,Acceptable
