@@ -5,3 +5,4 @@ food__near_me_user_43.000488_-88.088379_result_42.99666285216612_-88.08866612951
 Taco_bell_user_42.377_-83.4928_result_42.63870558200277_-83.32628343448285,implicit,chain_business,chain_business,-3,True,2,True,True,Acceptable
 830_Park_user_33.54841533905618_-117.77006872065371_result_34.445419757115495_-119.61642380552661,implicit,address,address,-3,False,2,True,True,Bad
 restaurant_wind_river_res_user_41.191329_-104.799253_result_43.023289_-108.389602,explicit,chain_business,categorical,0,True,1,True,True,Excellent
+bakery_user_45.500796473426284_-122.63984072893881_result_45.50488718883137_-122.63073883551135,implicit,,,-1,True,2,True,True,Excellent
