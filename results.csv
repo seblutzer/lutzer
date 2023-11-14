@@ -7,5 +7,5 @@ Taco_bell_user_42.377_-83.4928_result_42.63870558200277_-83.32628343448285,impli
 restaurant_wind_river_res_user_41.191329_-104.799253_result_43.023289_-108.389602,explicit,chain_business,categorical,0,True,1,True,True,Excellent
 bakery_user_45.500796473426284_-122.63984072893881_result_45.50488718883137_-122.63073883551135,implicit,chain_business,categorical,-1,True,1,True,True,Good
 windansea_beach_user_32.776424_-117.01015_result_32.83176_-117.28146,implicit,categorical,categorical,0,True,0,True,True,Excellent
-beach_user_32.776424_-117.01015_result_32.83176_-117.28146,explicit,,categorical,0,True,0,True,True,Navigational
+beach_user_32.776424_-117.01015_result_32.83176_-117.28146,explicit,categorical,categorical,0,True,0,True,True,Navigational
 sea_user_32.776424_-117.01015_result_32.83176_-117.28146,explicit,categorical,categorical,0,True,0,True,True,Navigational
