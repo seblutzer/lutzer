@@ -22,3 +22,4 @@ climbing_gym_user_34.03953740463502_-118.23871158279924_result_33.9763682062467_
 bars_user_32.761575155334846_-117.14687855520339_result_32.76234922905019_-117.1461254311721,FRESH,True,implicit,user,chain_business,categorical,-1,True,1,True,True,Good
 Burger_King_user_44.538574_-69.631348_result_44.5567_-69.6296,FRESH,False,implicit,viewport,chain_business,chain_business,0,False,0,True,True,Excellent
 bakery_user_45.500796473426284_-122.63984072893881_result_45.504710521332036_-122.64024051784257,FRESH,True,implicit,user,chain_business,categorical,0,True,0,True,True,Excellent
+Wendys_waukesha_wi_user_43.000488_-88.088379_result_43.04351950349819_-88.25949514680856,FRESH,False,explicit,interest,chain_business,chain_business,0,False,0,True,True,Excellent
