@@ -9,7 +9,7 @@ bakery_user_45.500796473426284_-122.63984072893881_result_45.50488718883137_-122
 windansea_beach_user_32.776424_-117.01015_result_32.83176_-117.28146,FRESH,False,implicit,interest,categorical,categorical,0,True,0,True,True,Excellent
 Northgate_user_32.79394596284677_-117.02055419648923_result_32.74712253498077_-117.0776270244245,FRESH,False,implicit,viewport,chain_business,chain_business,-2,False,2,True,True,Acceptable
 bars_user_32.761575155334846_-117.14687855520339_result_32.76271848857157_-117.13038169172331,FRESH,True,implicit,user,chain_business,categorical,-3,True,4,True,True,Acceptable
-skools_user_32.7945771028268_-117.19737916253096_result_32.881584691004456_-117.23488629482395,FRESH,True,implicit,user,,,0,True,0,True,True,Excellent
+skools_user_32.7945771028268_-117.19737916253096_result_32.881584691004456_-117.23488629482395,FRESH,True,implicit,user,categorical,categorical,0,True,0,True,True,Excellent
 "122_Paige_St._Owego,_NY_user_42.165527_-76.003418_result_42.108268_-76.260149",STALE,False,explicit,user,address,address,0,False,0,True,True,Navigational
 "6900_Barker_Way,_San_Diego_user_32.69862261905797_-116.9181868335637_result_32.80940449690931_-117.02182590976206",STALE,False,explicit,user,address,address,0,True,0,True,False,Excellent
 "86_Water_St,_St._Augustine_FL_user_29.886828518206173_-81.32979081867816_result_29.903374249262114_-81.31332727461009",STALE,True,explicit,user,address,address,0,False,0,False,True,Excellent
