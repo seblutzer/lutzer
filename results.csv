@@ -27,4 +27,4 @@ Taco_bell_user_42.377_-83.4928_result_42.376739_-83.461088,FRESH,True,implicit,u
 hollister_chandler_fashion_center_user_33.433456_-111.901932_result_33.30104890866265_-111.89826748160498,FRESH,True,explicit,interest,chain_business,chain_business,0,True,0,True,True,Navigational
 starbucks_user_37.784914924455805_-122.40858635684727_result_37.78688167968204_-122.40732732784093,FRESH,True,implicit,user,chain_business,chain_business,-1,True,1,True,True,Good
 starbucks_user_37.784914924455805_-122.40858635684727_result_37.79291518221384_-122.4043205208765,FRESH,True,implicit,user,chain_business,chain_business,-3,False,2,True,True,Bad
-bars_user_32.761575155334846_-117.14687855520339_result_32.76002828339499_-117.1304822550936,FRESH,True,implicit,user,chain_business,categorical,-3,False,2,True,True,Bad
+bars_user_32.761575155334846_-117.14687855520339_result_32.76002828339499_-117.1304822550936,FRESH,True,implicit,user,chain_business,categorical,-3,False,4,True,True,Bad
