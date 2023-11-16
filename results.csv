@@ -31,3 +31,4 @@ bars_user_32.761575155334846_-117.14687855520339_result_32.76002828339499_-117.1
 starbucks_user_37.77484306470363_-122.27837301878446_result_37.79066615050736_-122.40389096985628,FRESH,False,implicit,viewport,chain_business,chain_business,0,True,0,True,True,Excellent
 "6890_Barker_Way,_San_Diego_user_32.69862261905797_-116.9181868335637_result_32.80940449690931_-117.02182590976206",STALE,False,explicit,user,address,address,0,True,0,True,True,Navigational
 1700_Manning_St_PA_user_39.94984215103248_-75.17212989801891_result_39.94793047355631_-75.1696606124799,STALE,True,explicit,user,address,address,0,True,0,True,True,Navigational
+zara_user_25.912775192046162_-80.17448198998393_result_25.9578642984652_-80.14261758856775,FRESH,True,implicit,user,chain_business,chain_business,0,False,0,True,True,Excellent
