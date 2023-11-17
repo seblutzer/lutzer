@@ -46,3 +46,4 @@ bakery_user_45.500796473426284_-122.63984072893881_result_45.49775554212681_-122
 bakery_user_45.500796473426284_-122.63984072893881_result_45.49779126459214_-122.64407726689485,FRESH,True,implicit,user,chain_business,categorical,0,True,0,True,True,Excellent
 bakery_user_45.500796473426284_-122.63984072893881_result_45.4977666284116_-122.64412823077328,FRESH,True,implicit,user,chain_business,categorical,0,True,0,True,True,Excellent
 bars_user_32.761575155334846_-117.14687855520339_result_32.761539434349274_-117.1464505574716,FRESH,True,implicit,user,chain_business,categorical,0,True,0,False,True,Excellent
+zara_user_25.912775192046162_-80.17448198998393_result_25.69018539573_-80.31467000001753,FRESH,True,implicit,user,chain_business,chain_business,0,False,0,True,True,Excellent
