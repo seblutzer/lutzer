@@ -36,4 +36,4 @@ zara_user_25.912775192046162_-80.17448198998393_result_25.9578642984652_-80.1426
 starbucks_user_37.784914924455805_-122.40858635684727_result_37.79066615050736_-122.40389096985628,FRESH,True,implicit,user,chain_business,chain_business,-3,True,3,True,True,Acceptable
 starbucks_user_37.77484306470363_-122.27837301878446_result_37.78688167968204_-122.40732732784093,FRESH,False,implicit,viewport,chain_business,chain_business,0,True,0,True,True,Excellent
 bars_user_32.761575155334846_-117.14687855520339_result_32.762346218801085_-117.14557976918957,FRESH,True,implicit,user,chain_business,categorical,-2,True,2,True,True,Acceptable
-jimmy_johns_user_42.37693_-83.491365_result_42.66068006187388_-83.38659949632519,FRESH,True,implicit,user,,,-3,True,5,True,True,Acceptable
+jimmy_johns_user_42.37693_-83.491365_result_42.66068006187388_-83.38659949632519,FRESH,True,implicit,user,chain_business,chain_business,-3,True,5,True,True,Acceptable
