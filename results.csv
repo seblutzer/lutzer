@@ -42,3 +42,4 @@ starbucks_user_37.77484306470363_-122.27837301878446_result_37.786121019342474_-
 Mall_user_46.845703_-100.722656_result_46.799048_-100.784807,FRESH,False,implicit,viewport,chain_business,,0,True,0,True,True,Excellent
 1690_Manning_St_PA_user_39.94984215103248_-75.17212989801891_result_39.94793047355631_-75.1696606124799,STALE,True,explicit,user,address,address,0,True,0,True,False,Excellent
 bakery_user_45.500796473426284_-122.63984072893881_result_45.497729166759584_-122.64424314617672,FRESH,True,implicit,user,chain_business,categorical,-1,True,2,True,True,Good
+bakery_user_45.500796473426284_-122.63984072893881_result_45.49775554212681_-122.6441651356508,FRESH,True,implicit,user,chain_business,categorical,-1,True,2,True,True,Good
