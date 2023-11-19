@@ -38,7 +38,7 @@ starbucks_user_37.77484306470363_-122.27837301878446_result_37.78688167968204_-1
 bars_user_32.761575155334846_-117.14687855520339_result_32.762346218801085_-117.14557976918957,FRESH,True,implicit,user,chain_business,categorical,-2,True,2,True,True,Acceptable
 jimmy_johns_user_42.37693_-83.491365_result_42.66068006187388_-83.38659949632519,FRESH,True,implicit,user,chain_business,chain_business,-3,True,5,True,True,Acceptable
 restaurant_wind_river_res_user_41.191329_-104.799253_result_42.832875_-108.727501,FRESH,True,explicit,interest,chain_business,categorical,-1,False,6,True,True,Bad
-starbucks_user_37.77484306470363_-122.27837301878446_result_37.786121019342474_-122.40932913463718,FRESH,False,implicit,viewport,chain_business,chain_business,-1,False,11,True,True,Bad
+starbucks_user_37.77484306470363_-122.27837301878446_result_37.786121019342474_-122.40932913463718,FRESH,False,implicit,viewport,chain_business,chain_business,-1,False,3,True,True,Bad
 Mall_user_46.845703_-100.722656_result_46.799048_-100.784807,FRESH,False,implicit,viewport,chain_business,,0,True,0,True,True,Excellent
 1690_Manning_St_PA_user_39.94984215103248_-75.17212989801891_result_39.94793047355631_-75.1696606124799,STALE,True,explicit,user,address,address,0,True,0,False,True,Excellent
 bakery_user_45.500796473426284_-122.63984072893881_result_45.497729166759584_-122.64424314617672,FRESH,True,implicit,user,chain_business,categorical,-1,True,2,True,True,Good
