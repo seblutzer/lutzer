@@ -18,7 +18,7 @@ Lat, Lng
 39.94787748157774, -75.169651256338
 39.947887248806545, -75.1697256876405",,"39.947889305065075, -75.16964522136752
 39.9479371130582, -75.16963382197885
-39.94794276776485, -75.16967070235395",,,"1690 Manning St, Philadelphia, PA 19103, EUA","Unfortunately, this information wasn't found. Please double-check it and try again.",N,True
+39.94794276776485, -75.16967070235395",,,"1690 Manning St, Philadelphia, PA 19103, EUA","Unfortunately, this information wasn't found. Please double-check it and try again.",N,Primary
 "Query:	
 starbucks
 Viewport age:	FRESH
@@ -60,7 +60,7 @@ Lat, Lng
 37.786180167621495, -122.40904914343217
 37.78610948993806, -122.40903253479875",Starbucks,https://www.starbucks.com/store-locator/store/12349/,"222 Mason St, San Francisco, CA 94102, United States","222 MASON ST
 
-SAN FRANCISCO CA 94102-2115",Y,True
+SAN FRANCISCO CA 94102-2115",Y,Primary
 "Query:	
 zara
 Viewport age:	FRESH
@@ -98,7 +98,7 @@ Lat, Lng
 25.690115381495907, -80.31457146956541
 25.69040379685881, -80.31458417922306",ZARA,https://www.zara.com/?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_content=US3181,"7535 N Kendall Dr, Miami, FL 33156, United States","7535 N KENDALL DR
 
-MIAMI FL 33156-7872",D,True
+MIAMI FL 33156-7872",D,Primary
 "Query:	
 bakery
 Viewport age:	FRESH
