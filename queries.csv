@@ -1,4 +1,4 @@
-query,result,location_coords,others_coords,roof_coords,name,website,google,usps,dpv
+query,result,location_coords,others_coords,roof_coords,name,website,google,usps,dpv,user_intent
 "Query:	
 1690 Manning St PA
 Viewport age:	STALE
@@ -18,7 +18,7 @@ Lat, Lng
 39.94787748157774, -75.169651256338
 39.947887248806545, -75.1697256876405",,"39.947889305065075, -75.16964522136752
 39.9479371130582, -75.16963382197885
-39.94794276776485, -75.16967070235395",,,"1690 Manning St, Philadelphia, PA 19103, EUA","Unfortunately, this information wasn't found. Please double-check it and try again.",N
+39.94794276776485, -75.16967070235395",,,"1690 Manning St, Philadelphia, PA 19103, EUA","Unfortunately, this information wasn't found. Please double-check it and try again.",N,True
 "Query:	
 starbucks
 Viewport age:	FRESH
@@ -60,7 +60,7 @@ Lat, Lng
 37.786180167621495, -122.40904914343217
 37.78610948993806, -122.40903253479875",Starbucks,https://www.starbucks.com/store-locator/store/12349/,"222 Mason St, San Francisco, CA 94102, United States","222 MASON ST
 
-SAN FRANCISCO CA 94102-2115",Y
+SAN FRANCISCO CA 94102-2115",Y,True
 "Query:	
 zara
 Viewport age:	FRESH
@@ -98,4 +98,33 @@ Lat, Lng
 25.690115381495907, -80.31457146956541
 25.69040379685881, -80.31458417922306",ZARA,https://www.zara.com/?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_content=US3181,"7535 N Kendall Dr, Miami, FL 33156, United States","7535 N KENDALL DR
 
-MIAMI FL 33156-7872",D
+MIAMI FL 33156-7872",D,True
+"Query:	
+bakery
+Viewport age:	FRESH
+Query Locale:	en-US_US
+Viewport Location:	45.505544, -122.63793
+User Location:	45.500796473426284, -122.63984072893881
+45.496414461530435, -122.65696559457706","Jensen's Bread & Bakeries
+Address:	
+3420 SE 21st Ave.
+Portland, OR 97202
+United States
+Classification	Bakery
+Distance to User	0.484 km
+Distance to Viewport	0.999 km
+Lat, Lng	
+45.497729166759584, -122.64424314617672","45.497676497402, -122.64407083991325
+45.49780246146137, -122.6440654754951
+45.49780528154903, -122.64453486208738","45.504710521332036, -122.64024051784257
+45.50488718883137, -122.63073883551135
+45.49325953614132, -122.63677948670473
+45.504791015377656, -122.65492044978457
+45.50469301060832, -122.63947678951278
+45.504602148773905, -122.62936448413733
+45.496605733052135, -122.64540804555033
+45.49692379397605, -122.62203954522359","45.49780528154903, -122.64437929395966
+45.4978043415198, -122.64408961537697
+45.49768495768348, -122.64409229758606",Jensen's Bread & Bakeries,http://jensensbread.com/,"3420 SE 21st Ave, Portland, OR 97202, Estados Unidos","3420 SE 21ST AVE
+
+PORTLAND OR 97202-2907",Y,
