@@ -1,5 +1,5 @@
 id,viewport,user_inside,location_type,reference,result_type,query_intent_type,result_demote,result_in_interest,sum_better,dpv,result_is_intented,relevance_rate
-zara_user_25.912775192046162_-80.17448198998393_result_25.7904159626_-80.13221633488729,FRESH,True,implicit,user,chain_business,chain_business,-1,False,1,True,True,Good
+zara_user_25.912775192046162_-80.17448198998393_result_25.7904159626_-80.13221633488729,FRESH,True,implicit,user,chain_business,chain_business,-1,False,2,True,Primary,Good
 bakery_user_45.500796473426284_-122.63984072893881_result_45.49325953614132_-122.63677948670473,FRESH,True,implicit,user,chain_business,categorical,-1,False,1,True,True,Good
 food__near_me_user_43.000488_-88.088379_result_42.99666285216612_-88.0886661295138,FRESH,False,explicit,viewport,chain_business,categorical,0,False,0,True,True,Excellent
 Taco_bell_user_42.377_-83.4928_result_42.63870558200277_-83.32628343448285,FRESH,True,implicit,user,chain_business,chain_business,-3,True,2,True,True,Acceptable
