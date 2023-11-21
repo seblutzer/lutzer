@@ -49,4 +49,4 @@ bars_user_32.761575155334846_-117.14687855520339_result_32.761539434349274_-117.
 zara_user_25.912775192046162_-80.17448198998393_result_25.69018539573_-80.31467000001753,FRESH,True,implicit,user,chain_business,chain_business,-2,False,2,True,True,Acceptable
 starbucks_user_37.77484306470363_-122.27837301878446_result_37.7883969280649_-122.39368114070822,FRESH,False,implicit,viewport,chain_business,chain_business,-4,False,7,True,True,Bad
 zara_user_25.805758769631378_-80.3205172148176_result_25.690167456180827_-80.3146668311107,FRESH,False,implicit,viewport,chain_business,chain_business,-2,False,3,True,True,Acceptable
-830_Park_user_33.54841533905618_-117.77006872065371_result_32.71414908789709_-117.15393561678921,FRESH,True,implicit,user,address,address,-1,False,1,True,Secondary,Acceptable
+830_Park_user_33.54841533905618_-117.77006872065371_result_32.71414908789709_-117.15393561678921,FRESH,True,implicit,user,address,address,-1,False,1,True,Secondary,Good
