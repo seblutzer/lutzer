@@ -14,7 +14,7 @@ skools_user_32.7945771028268_-117.19737916253096_result_32.881584691004456_-117.
 "6900_Barker_Way,_San_Diego_user_32.69862261905797_-116.9181868335637_result_32.80940449690931_-117.02182590976206",STALE,False,explicit,user,address,address,0,False,0,False,Primary,Excellent
 "86_Water_St,_St._Augustine_FL_user_29.886828518206173_-81.32979081867816_result_29.903374249262114_-81.31332727461009",STALE,True,explicit,user,address,address,0,False,0,False,Primary,Excellent
 "134_Paige_St._Owego,_NY_user_42.165527_-76.003418_result_42.108268_-76.260149",STALE,False,explicit,user,address,address,0,False,0,False,True,Excellent
-climbing_gym_user_34.03953740463502_-118.23871158279924_result_33.89982601990623_-118.36444298196997,STALE,False,implicit,user,chain_business,categorical,-3,True,14,True,Primary,Bad
+climbing_gym_user_34.03953740463502_-118.23871158279924_result_33.89982601990623_-118.36444298196997,STALE,False,implicit,user,chain_business,categorical,-3,True,4,True,Primary,Bad
 river_user_41.191329_-104.799253_result_43.02819_-108.381059,FRESH,True,explicit,interest,chain_business,categorical,0,False,0,True,True,Excellent
 restaurant_wind_river_res_user_41.191329_-104.799253_result_43.02819_-108.381059,FRESH,True,explicit,interest,chain_business,categorical,0,True,5,True,Primary,Excellent
 starbucks_user_37.784914924455805_-122.40858635684727_result_37.78407519493278_-122.40737317055385,FRESH,True,implicit,user,chain_business,chain_business,0,True,0,True,True,Excellent
