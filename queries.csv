@@ -1002,3 +1002,28 @@ Lat, Lng
 38.2445846319368, -85.75830366042304",Louisville Free Public Library,http://www.lfpl.org/,"301 York St, Louisville, KY 40203, United States","301 YORK ST
 
 LOUISVILLE KY 40203-2205",Y,Non-Relevant
+"Query:
+ihop
+Viewport age: FRESH
+Query Locale: en-US_US
+Viewport Location: 38.936028, -94.719069
+User Location: 38.900746, -94.529142
+39.005547,-94.792221","IHOP
+Address:
+6936 W 119th St
+Leawood, KS 66209
+United States
+Classification	Breakfast & Brunch
+Distance to User	109.53 km
+Distance to Viewport	103.79 km
+Lat, Lng
+38.91332, -94.66642","38.913214, -94.666913
+38.913781, -94.666188
+38.913182, -94.666182","38.913786, -94.765052
+38.965261, -94.666914","38.913291, -94.666348
+38.913495, -94.666347
+38.913506, -94.666506
+38.91346, -94.666568
+38.913289, -94.666564",IHOP,https://restaurants.ihop.com/en-us/ks/overland-park/breakfast-6936-w-119th-st-5305?utm_source=google&utm_medium=organic&utm_campaign=google_my_business&utm_term=5305&utm_content=website,"6936 W 119th St, Overland Park, KS 66209, United States","6936 W 119TH ST
+
+LEAWOOD KS 66209-2016",Y,Automático
