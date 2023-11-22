@@ -60,4 +60,4 @@ Louisville_ky_user_38.232422_-87.011719_result_38.244911_-85.757754,FRESH,False,
 in_Louisville_ky_user_38.232422_-87.011719_result_38.244911_-85.757754,FRESH,False,implicit,viewport,,,0,False,2,True,Primary,Navigational
 ihop_user_38.900746_-94.529142_result_38.91332_-94.66642,FRESH,False,implicit,viewport,chain_business,chain_business,0,True,2,True,Primary,Excellent
 "Taco_Tico_4833_Texas_Blvd._Texarkana,_TX_75503_user_33.464355_-94.064941_result_33.460883_-94.045237",FRESH,True,explicit,user,address,,-1,True,0,True,Non-Relevant,Bad
-"Freddy's_Steakburgers_Papillion,_NE_user_40.754266_-96.634721_result_41.204688_-96.126779",FRESH,False,explicit,interest,,,-1,False,1,True,Primary,Good
+"Freddy's_Steakburgers_Papillion,_NE_user_40.754266_-96.634721_result_41.204688_-96.126779",FRESH,False,explicit,interest,chain_business,,-1,False,1,True,Primary,Good
