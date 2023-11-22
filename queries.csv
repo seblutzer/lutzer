@@ -1354,3 +1354,18 @@ Lat, Lng	26.93272, -80.128319","{""type"":""Feature"",""properties"":{""id"":""p
 26.161834275255814, -80.20555016190163","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-80.129005,26.93212],[-80.128164,26.932096],[-80.12816,26.932275],[-80.127526,26.93226],[-80.127499,26.932947],[-80.12779,26.93295],[-80.127792,26.933143],[-80.127954,26.93315],[-80.127956,26.933189],[-80.128088,26.933189],[-80.128087,26.933154],[-80.128548,26.933167],[-80.128546,26.933205],[-80.12868,26.933207],[-80.128681,26.933173],[-80.128967,26.933183],[-80.129005,26.93212]]]}}",Walmart Supercenter,https://www.walmart.com/store/2176-jupiter-fl,"2144 W Indiantown Rd, Jupiter, FL 33458, United States","2144 W INDIANTOWN RD
 
 JUPITER FL 33458-5810",Y,Automático
+"Query Locale:	en_US
+Query:	Buffalo Wild Wings, 8251 Trillium Circle Avenue, Suite 102, Grand Blanc, MI 48439
+Viewport age:	STALE
+User location:	42.956543, -83.605960
+Viewport location:	42.939343, -83.625503
+42.967865,-83.588138","8251 Trillium Circle Ave
+Address	8251 Trillium Circle Ave Unit 102
+Grand Blanc, MI 48439
+United States
+Classification	
+Distance to User	5.45 km
+Distance to Viewport	0.10 km
+Lat, Lng	42.909913, -83.626769","{""type"":""Feature"",""properties"":{""id"":""polygon_0""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-83.626703,42.91044],[-83.626066,42.910043],[-83.627118,42.909163],[-83.627454,42.909377],[-83.626985,42.909809],[-83.627227,42.909897],[-83.626988,42.91021],[-83.6269,42.910218],[-83.626837,42.910409],[-83.626703,42.91044]]]}}",,"{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-83.626638,42.910269],[-83.62649,42.910179],[-83.626551,42.910123],[-83.626451,42.910062],[-83.626682,42.909851],[-83.62673,42.909874],[-83.626765,42.909839],[-83.62682,42.909871],[-83.626785,42.909909],[-83.626853,42.909951],[-83.62663,42.910157],[-83.626704,42.910206],[-83.626638,42.910269]]]}}",,,"8251 Trillium Circle Avenue STE 102, Grand Blanc, MI 48439, Estados Unidos","8251 TRILLIUM CIRCLE AVE STE 102
+
+GRAND BLANC MI 48439-2449",Y,Automático
