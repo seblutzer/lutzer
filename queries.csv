@@ -908,3 +908,41 @@ Lat, Lng
 37.78617698696666, -122.4090427038266",Starbucks,https://www.starbucks.com/store-locator/store/11405/,"222 Mason St, San Francisco, CA 94102, United States","222 MASON ST
 
 SAN FRANCISCO CA 94102-2115",Y,Automático
+"Query:	
+Arbys
+Viewport age:	FRESH
+Query Locale:	en_US
+Viewport Location:	38.588549, -75.301785
+User Location:	38.737790, -75.168457
+38.77933340042905, -75.131476277141","Arby's
+Address:
+17719 Coastal Hwy
+Lewes, DE 19958
+United States
+Classification Fast Food
+Distance to User 1.26 km
+Distance to Viewport 0.0 km
+Lat, Lng
+38.749052, -75.166667","38.748748, -75.166194
+38.748736, -75.166973
+38.749582, -75.167498
+38.749832, -75.166849
+38.748748, -75.166194","38.700392, -75.400598
+38.575877, -75.285875
+38.45506, -75.233819","38.748937, -75.166557
+38.748903, -75.166649
+38.749005, -75.166714
+38.748983, -75.166775
+38.749042, -75.166812
+38.749063, -75.166761
+38.749112, -75.166791
+38.749117, -75.166777
+38.74922, -75.166838
+38.749246, -75.166763
+38.749195, -75.166731
+38.749209, -75.166693
+38.749054, -75.166597
+38.749045, -75.166623
+38.748937, -75.166557",Arby's,https://locations.arbys.com/de/lewes/17719-costal-hwy.html?utm_source=google%20my%20business&utm_medium=organic&utm_campaign=website%20link,"17719 Coastal Hwy, Lewes, DE 19958, United States","17719 COASTAL HWY
+
+LEWES DE 19958-6215",Y,Automático
