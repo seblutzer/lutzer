@@ -67,4 +67,4 @@ Banana_king_user_40.870675_-74.081051_result_40.655377_-74.199078,FRESH,True,imp
 Walmart_user_26.960449_-80.178223_result_25.926651_-80.171807,FRESH,False,implicit,viewport,chain_business,chain_business,0,True,0,True,Primary,Excellent
 Walmart_user_26.960449_-80.178223_result_26.93272_-80.128319,FRESH,False,implicit,viewport,chain_business,chain_business,-4,False,14,True,Primary,Bad
 Buffalo_Wild_Wings_user_42.956543_-83.60596_result_42.909913_-83.626769,STALE,True,implicit,user,address,chain_business,-1,False,0,True,Non-Relevant,Bad
-Orland_Square_Mall_user_41.594238_-87.912598_result_41.619745_-87.848404,FRESH,False,implicit,viewport,,,0,False,0,True,Primary,Navigational
+Orland_Square_Mall_user_41.594238_-87.912598_result_41.619745_-87.848404,FRESH,False,implicit,viewport,chain_business,chain_business,0,False,0,True,Primary,Navigational
