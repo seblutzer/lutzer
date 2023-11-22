@@ -69,3 +69,4 @@ Walmart_user_26.960449_-80.178223_result_26.93272_-80.128319,FRESH,False,implici
 Buffalo_Wild_Wings_user_42.956543_-83.60596_result_42.909913_-83.626769,STALE,True,implicit,user,address,chain_business,-1,False,0,True,Non-Relevant,Bad
 Orland_Square_Mall_user_41.594238_-87.912598_result_41.619745_-87.848404,FRESH,False,implicit,viewport,chain_business,chain_business,0,False,0,True,Primary,Navigational
 499_Venus_Drive_Alamogordo_user_32.746513_-105.916791_result_32.876975_-105.955523,FRESH,False,explicit,viewport,address,address,0,True,0,False,Primary,Excellent
+ihop_user_38.900746_-94.529142_result_38.913786_-94.765052,FRESH,False,implicit,viewport,chain_business,chain_business,0,False,1,True,Primary,Navigational
