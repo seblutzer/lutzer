@@ -62,3 +62,4 @@ ihop_user_38.900746_-94.529142_result_38.91332_-94.66642,FRESH,False,implicit,vi
 "Taco_Tico_4833_Texas_Blvd._Texarkana,_TX_75503_user_33.464355_-94.064941_result_33.460883_-94.045237",FRESH,True,explicit,user,address,,-1,True,0,True,Non-Relevant,Bad
 "Freddy's_Steakburgers_Papillion,_NE_user_40.754266_-96.634721_result_41.204688_-96.126779",FRESH,False,explicit,interest,chain_business,,-1,False,1,True,Primary,Good
 Walmart_hope_arkansas_user_33.684082_-96.61377_result_33.680812_-93.614678,FRESH,True,explicit,interest,chain_business,chain_business,0,True,0,True,Primary,Navigational
+Station_Seattle_user_47.604488_-122.334479_result_47.384555_-122.232921,FRESH,True,explicit,interest,,categorical,-2,False,2,False,Primary,Acceptable
