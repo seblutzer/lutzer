@@ -64,3 +64,4 @@ ihop_user_38.900746_-94.529142_result_38.91332_-94.66642,FRESH,False,implicit,vi
 Walmart_hope_arkansas_user_33.684082_-96.61377_result_33.680812_-93.614678,FRESH,True,explicit,interest,chain_business,chain_business,0,True,0,True,Primary,Navigational
 Station_Seattle_user_47.604488_-122.334479_result_47.384555_-122.232921,FRESH,True,explicit,interest,chain_business,categorical,-1,False,12,False,Primary,Bad
 Banana_king_user_40.870675_-74.081051_result_40.655377_-74.199078,FRESH,True,implicit,user,chain_business,chain_business,-4,True,10,True,Primary,Acceptable
+Walmart_user_26.960449_-80.178223_result_25.926651_-80.171807,FRESH,False,implicit,viewport,chain_business,chain_business,0,True,0,True,Primary,Excellent
