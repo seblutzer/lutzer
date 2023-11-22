@@ -56,5 +56,5 @@ bakery_user_45.500796473426284_-122.63984072893881_result_33.89982601990623_-118
 skools_user_32.7945771028268_-117.19737916253096_result_32.87856392913944_-117.21671821958749,FRESH,True,implicit,user,chain_business,,-4,True,12,True,Primary,Acceptable
 starbucks_user_37.784914924455805_-122.40858635684727_result_37.786121019342474_-122.40932913463718,FRESH,True,implicit,user,chain_business,chain_business,-1,False,0,True,Primary,Excellent
 Arbys_user_38.73779_-75.168457_result_38.749052_-75.166667,FRESH,True,implicit,user,chain_business,chain_business,-1,True,0,True,Primary,Excellent
-Louisville_ky_user_38.232422_-87.011719_result_38.244911_-85.757754,FRESH,False,implicit,viewport,,,0,False,2,True,Primary,Navigational
+Louisville_ky_user_38.232422_-87.011719_result_38.244911_-85.757754,FRESH,False,explicit,interest,,,0,True,0,True,Primary,Navigational
 in_Louisville_ky_user_38.232422_-87.011719_result_38.244911_-85.757754,FRESH,False,implicit,viewport,,,0,False,2,True,Primary,Navigational
