@@ -58,3 +58,4 @@ starbucks_user_37.784914924455805_-122.40858635684727_result_37.786121019342474_
 Arbys_user_38.73779_-75.168457_result_38.749052_-75.166667,FRESH,True,implicit,user,chain_business,chain_business,-1,True,0,True,Primary,Excellent
 Louisville_ky_user_38.232422_-87.011719_result_38.244911_-85.757754,FRESH,False,explicit,interest,chain_business,chain_business,0,True,0,True,Non-Relevant,Bad
 in_Louisville_ky_user_38.232422_-87.011719_result_38.244911_-85.757754,FRESH,False,implicit,viewport,,,0,False,2,True,Primary,Navigational
+ihop_user_38.900746_-94.529142_result_38.91332_-94.66642,FRESH,False,implicit,viewport,chain_business,chain_business,0,True,2,True,Primary,Excellent
