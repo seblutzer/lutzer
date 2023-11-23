@@ -1843,3 +1843,19 @@ Lat, Lng	43.548748, -116.569875","43.66947113755133, -116.72325326805637
 43.586346, -116.572371","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-116.570689,43.549297],[-116.570701,43.549434],[-116.570513,43.549438],[-116.570513,43.549295],[-116.570689,43.549297]]]}}",Burger King,https://burgerking.com/store-locator/store/restaurant_77502,"2100 12th Ave Rd, Nampa, ID 83686, United States","2100 12TH AVE RD
 
 NAMPA ID 83686-6441",Y,Automático
+"Query Locale:	en-US_US
+Query:	200 Hudson
+Viewport age:	FRESH
+User location:	38.056641, -101.777344
+Viewport location:	38.451155, -102.238681
+38.63326,-102.045631","200 Hudson St.
+Address	200 Hudson St.
+Denver, CO 80220
+United States
+Classification	
+Distance to User	329.10 km
+Distance to Viewport	246.39 km
+Lat, Lng	39.719714, -104.923138","{""type"":""Feature"",""properties"":{""id"":""polygon_0""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-104.922855,39.719659],[-104.923415,39.719655],[-104.923406,39.71981],[-104.923047,39.719817],[-104.922984,39.719768],[-104.922857,39.719774],[-104.922855,39.719659]]]}}","39.126526, -100.852435
+37.536538, -122.274345","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-104.92302,39.719774],[-104.923022,39.719663],[-104.923181,39.719661],[-104.923179,39.719719],[-104.92321,39.719718],[-104.923213,39.719785],[-104.923064,39.719789],[-104.923063,39.719774],[-104.92302,39.719774]]]}}",,,"200 Hudson St, Denver, CO 80220, United States","200 HUDSON ST
+
+DENVER CO 80220-5834",Y,Automático
