@@ -1728,3 +1728,19 @@ Lat, Lng	33.025611, -97.280071","{""type"":""Feature"",""properties"":{""id"":""
 32.96055399909248, -96.77046898689804","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-97.279234,33.0258],[-97.279239,33.025447],[-97.279364,33.025447],[-97.279367,33.025566],[-97.279495,33.025563],[-97.279495,33.025704],[-97.279366,33.025718],[-97.279357,33.025775],[-97.279293,33.02577],[-97.279292,33.025799],[-97.279234,33.0258]]]}}",Chick-fil-A,https://www.chick-fil-a.com/locations/tx/champions-center?utm_source=yext&utm_medium=link,"3588 TX-114, Fort Worth, TX 76177, United States","3588 HIGHWAY 114
 
 FORT WORTH TX 76177-2101",Y,Automático
+"Query Locale:	en_US
+Query:	Burger king caldwell
+Viewport age:	FRESH
+User location:	43.571780, -116.257324
+Viewport location:	43.581880, -116.245819
+43.587413,-116.238952","Burger King
+Address	2100 12th Ave Rd
+Nampa, ID 83686
+United States
+Classification	Fast Food
+Distance to User	25.31 km
+Distance to Viewport	25.74 km
+Lat, Lng	43.548748, -116.569875","{""type"":""Feature"",""properties"":{""id"":""polygon_0""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-116.571871,43.55003],[-116.5697,43.550036],[-116.569381,43.54997],[-116.569225,43.549833],[-116.569103,43.547899],[-116.569185,43.547666],[-116.569434,43.547609],[-116.569474,43.547308],[-116.569657,43.547194],[-116.572206,43.547172],[-116.572228,43.549769],[-116.572131,43.550007],[-116.571871,43.55003]]]}}","43.662252, -116.66388
+43.586346, -116.572371","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-116.570689,43.549297],[-116.570701,43.549434],[-116.570513,43.549438],[-116.570513,43.549295],[-116.570689,43.549297]]]}}",Burger King,https://burgerking.com/store-locator/store/restaurant_77502,"2100 12th Ave Rd, Nampa, ID 83686, United States","2100 12TH AVE RD
+
+NAMPA ID 83686-6441",Y,Automático
