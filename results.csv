@@ -74,3 +74,4 @@ Plato_user_34.965775_-90.106606_result_35.046832_-89.702743,FRESH,False,implicit
 Plato's_Closet_Southaven_MS_user_34.965775_-90.106606_result_35.046832_-89.702743,FRESH,False,explicit,interest,chain_business,chain_business,-2,False,3,True,Primary,Acceptable
 200_Hudson_user_38.056641_-101.777344_result_37.536538_-122.274345,FRESH,False,implicit,viewport,address,address,-2,False,2,True,Non-Relevant,Bad
 Apple_store_user_29.428608_-95.063268_result_29.54154_-95.14807,FRESH,True,implicit,user,chain_business,chain_business,-1,False,0,True,Primary,Excellent
+"Freddy's_Steakburgers_Papillion,_NE_user_40.754266_-96.634721_result_41.258694_-96.027926",FRESH,False,implicit,viewport,chain_business,,0,True,0,True,Primary,Excellent
