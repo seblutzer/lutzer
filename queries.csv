@@ -1696,3 +1696,20 @@ Lat, Lng	37.793197, -122.396433","{""type"":""Feature"",""properties"":{""id"":"
 37.788785, -122.402002
 37.785401, -122.406309","{""type"":""Feature"",""properties"":{""id"":""polygon_0""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-122.395706,37.794176],[-122.39532,37.793895],[-122.397461,37.792108],[-122.397797,37.792365],[-122.395706,37.794176]]]}}",Embarcadero Station,https://www.starbucks.com/store-locator/store/11834/,"San Francisco, CA
 United States","San Francisco, CA",Y,Automático
+"Query Locale:	en_US
+Query:	Chic fil a
+Viewport age:	FRESH
+User location:	32.802429, -96.630249
+Viewport location:	32.523947, -96.917428
+33.046082,-96.48287","Chick-fil-A
+Address	3588 Highway 114
+Fort Worth, TX 76177
+United States
+Classification	Fast Food
+Distance to User	65.54 km
+Distance to Viewport	0.00 km
+Lat, Lng	33.025611, -97.280071","{""type"":""Feature"",""properties"":{""id"":""polygon_0""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-97.279119,33.025188],[-97.279666,33.025221],[-97.279643,33.025969],[-97.279126,33.025982],[-97.279076,33.025921],[-97.279079,33.025264],[-97.279119,33.025188]]]}}","32.807422, -96.62394
+32.829199, -96.708485
+32.460265, -96.993448","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-97.279234,33.0258],[-97.279239,33.025447],[-97.279364,33.025447],[-97.279367,33.025566],[-97.279495,33.025563],[-97.279495,33.025704],[-97.279366,33.025718],[-97.279357,33.025775],[-97.279293,33.02577],[-97.279292,33.025799],[-97.279234,33.0258]]]}}",Chick-fil-A,https://www.chick-fil-a.com/locations/tx/champions-center?utm_source=yext&utm_medium=link,"3588 TX-114, Fort Worth, TX 76177, United States","3588 HIGHWAY 114
+
+FORT WORTH TX 76177-2101",Y,Automático
