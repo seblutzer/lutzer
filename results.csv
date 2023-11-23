@@ -77,3 +77,4 @@ Apple_store_user_29.428608_-95.063268_result_29.54154_-95.14807,FRESH,True,impli
 "Freddy's_Steakburgers_Papillion,_NE_user_40.754266_-96.634721_result_41.258694_-96.027926",FRESH,False,implicit,viewport,chain_business,,0,True,0,True,Primary,Excellent
 Food__near_me_user_39.917158_-75.260641_result_39.732633_-75.561041,FRESH,False,explicit,user,chain_business,categorical,-2,True,6,True,Primary,Bad
 Dinosaur_BBQ_user_42.978516_-76.81641_result_43.052566_-76.154671,STALE,False,implicit,user,chain_business,,-1,False,1,True,Primary,Excellent
+Dinosaur_BBQ_user_42.978516_-76.81641_result_43.153295_-77.608161,STALE,False,implicit,user,chain_business,,-1,False,1,True,Primary,Excellent
