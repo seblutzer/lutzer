@@ -1543,3 +1543,24 @@ Lat, Lng	41.258694, -96.027926","{""type"":""Feature"",""properties"":{""id"":""
 40.844481, -96.681591","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-96.028055,41.258801],[-96.02806,41.258585],[-96.027884,41.258584],[-96.027881,41.258802],[-96.028055,41.258801]]]}}",Freddy's Frozen Custard & Steakburgers,https://www.freddys.com/?utm_source=google&utm_medium=yext,"7419 Dodge St, Omaha, NE 68114, United States","7419 DODGE ST
 
 OMAHA NE 68114-3615",Y,Automático
+"Query Locale:	en_US
+Query:	Food near me
+Viewport age:	FRESH
+User location:	39.917158, -75.260641
+Viewport location:	39.730970, -75.563333
+39.73828,-75.555286","Big Fish Grill on The Riverfront
+Address	720 Justison St
+Wilmington, DE 19801
+United States
+Classification	Nightlife
+Distance to User	32.85 km
+Distance to Viewport	0.00 km
+Lat, Lng	39.732633, -75.561041","{""type"":""Feature"",""properties"":{""id"":""polygon_0""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-75.561584,39.733095],[-75.560674,39.73281],[-75.560754,39.73271],[-75.560812,39.732599],[-75.560863,39.732476],[-75.56088,39.732401],[-75.561833,39.732681],[-75.561751,39.733088],[-75.561584,39.733095]]]}}","39.91791235040764, -75.26056681797256
+39.91807793431307, -75.26183668736795
+39.917943445005015, -75.26342089546739
+39.917626493375494, -75.26433248481729
+39.9190341202853, -75.26165848939094
+39.918689207758504, -75.25815798628736
+39.91757988272023, -75.25519228235198","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-75.561009,39.732469],[-75.560962,39.732555],[-75.560913,39.732545],[-75.560821,39.732701],[-75.560879,39.732723],[-75.56085,39.73278],[-75.561068,39.732851],[-75.561244,39.732542],[-75.561009,39.732469]]]}}",Big Fish Grill on the Riverfront,http://www.bigfishriverfront.com/,"720 Justison St, Wilmington, DE 19801, United States","720 JUSTISON ST
+
+WILMINGTON DE 19801-5141",Y,Automático
