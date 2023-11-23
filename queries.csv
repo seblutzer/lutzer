@@ -1616,3 +1616,19 @@ Lat, Lng	44.087478, -70.201864","{""type"":""Feature"",""properties"":{""id"":""
 44.124364353740184, -69.094111726611","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-70.19919,44.086429],[-70.199918,44.085651],[-70.200248,44.085786],[-70.200531,44.085486],[-70.200885,44.085638],[-70.200563,44.085958],[-70.200602,44.085982],[-70.199894,44.086703],[-70.199312,44.086414],[-70.199252,44.086469],[-70.19919,44.086429]]]}}",Shaw's,https://local.shaws.com/me/lewiston/27-e-ave.html,"27 East Ave, Lewiston, ME 04240, United States","27 EAST AVE
 
 LEWISTON ME 04240-6645",Y,Automático
+"Query Locale:	en_US
+Query:	210 Market
+Viewport age:	STALE
+User location:	41.154785, -81.584473
+Viewport location:	41.127195, -81.550331
+41.154776,-81.494756","210 Market Ave. N
+Address	210 Market Ave. N
+Canton, OH 44702
+United States
+Classification	
+Distance to User	43.28 km
+Distance to Viewport	38.64 km
+Lat, Lng	40.799446, -81.374114","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-81.373664,40.799668],[-81.373865,40.799121],[-81.374209,40.799177],[-81.37425,40.799218],[-81.374276,40.799271],[-81.374266,40.799331],[-81.374118,40.799726],[-81.373664,40.799668]]]}}","41.088261, -81.524336
+34.133994, -79.938898","{""type"":""Feature"",""properties"":{""id"":""polygon_0""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-81.373663,40.79966],[-81.373861,40.799128],[-81.374181,40.799186],[-81.374144,40.799271],[-81.374211,40.799303],[-81.374225,40.799372],[-81.374114,40.799685],[-81.37395,40.799659],[-81.373934,40.79971],[-81.373663,40.79966]]]}}",,,"210 Market Ave N, Canton, OH 44702, United States","210 MARKET AVE N
+
+CANTON OH 44702-1418",Y,Automático
