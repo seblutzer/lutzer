@@ -81,3 +81,4 @@ Dinosaur_BBQ_user_42.978516_-76.81641_result_43.153295_-77.608161,STALE,False,im
 Shaw's_user_44.538574_-69.631348_result_44.087478_-70.201864,FRESH,False,implicit,viewport,chain_business,chain_business,-2,False,6,True,Primary,Acceptable
 210_Market_user_41.154785_-81.584473_result_40.799446_-81.374114,STALE,False,implicit,user,address,address,-2,False,1,True,Secondary,Good
 1407_Plum_user_30.944255_-103.788351_result_31.411427_-103.498033,FRESH,True,implicit,user,address,address,-1,False,0,True,Primary,Navigational
+Dick's_Sporting_Goods_user_26.712343_-80.053205_result_26.681516_-80.182562,FRESH,False,implicit,viewport,chain_business,chain_business,0,True,1,True,Primary,Excellent
