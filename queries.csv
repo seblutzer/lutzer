@@ -1632,3 +1632,18 @@ Lat, Lng	40.799446, -81.374114","{""type"":""Feature"",""properties"":{""id"":""
 34.133994, -79.938898","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-81.373761,40.799425],[-81.373784,40.799341],[-81.374207,40.799423],[-81.374176,40.799505],[-81.373761,40.799425]]]}}",,,"210 Market Ave N, Canton, OH 44702, United States","210 MARKET AVE N
 
 CANTON OH 44702-1418",Y,Automático
+"Query Locale:	en_US
+Query:	1407 Plum
+Viewport age:	FRESH
+User location:	30.944255, -103.788351
+Viewport location:	30.951477, -103.787698
+31.013638,-103.731164","1407 S Plum St.
+Address	1407 S Plum St.
+Pecos, TX 79772
+United States
+Classification	
+Distance to User	58.83 km
+Distance to Viewport	49.48 km
+Lat, Lng	31.411427, -103.498033","{""type"":""Feature"",""properties"":{""id"":""polygon_0""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-103.497759,31.411666],[-103.498157,31.41173],[-103.498197,31.41155],[-103.497795,31.411477],[-103.497759,31.411666]]]}}",,"{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-103.498054,31.411702],[-103.498086,31.411537],[-103.49791,31.411505],[-103.49789,31.411597],[-103.49791,31.411599],[-103.497899,31.411633],[-103.497837,31.411623],[-103.497829,31.411676],[-103.498054,31.411702]]]}}",,,"1407 S Plum St, Pecos, TX 79772, United States","1407 S PLUM ST
+
+PECOS TX 79772-5905",Y,Automático
