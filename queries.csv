@@ -1525,3 +1525,21 @@ Lat, Lng	29.54154, -95.14807","{""type"":""Feature"",""properties"":{""id"":""po
 29.541181857145347, -95.14805410869688",Apple,https://www.baybrookmall.com/en/directory/map/,"500 Baybrook Mall, Friendswood, TX 77546, United States","500 BAYBROOK MALL
 
 FRIENDSWOOD TX 77546-2796",D,Automático
+"Query Locale:	en_US
+Query:	Freddy's Steakburgers Papillion, NE
+Viewport age:	FRESH
+User location:	40.754266, -96.634721
+Viewport location:	41.244256, -96.031325
+41.167839,-96.134471","Freddy's Frozen Custard & Steakburgers
+Address	7419 Dodge Street
+Omaha, NE 68114
+United States
+Classification	Pizza
+Distance to User	75.75 km
+Distance to Viewport	0.00 km
+Lat, Lng	41.258694, -96.027926","{""type"":""Feature"",""properties"":{""id"":""polygon_0""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-96.028088,41.258525],[-96.028119,41.258557],[-96.028119,41.258738],[-96.028071,41.2588],[-96.028015,41.258843],[-96.027954,41.258866],[-96.027864,41.258859],[-96.027862,41.258829],[-96.027874,41.25856],[-96.027906,41.258533],[-96.028088,41.258525]]]}}","41.135102, -96.025452
+41.204688, -96.126779
+41.231223, -96.196769
+40.844481, -96.681591","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-96.028055,41.258801],[-96.02806,41.258585],[-96.027884,41.258584],[-96.027881,41.258802],[-96.028055,41.258801]]]}}",Freddy's Frozen Custard & Steakburgers,https://www.freddys.com/?utm_source=google&utm_medium=yext,"7419 Dodge St, Omaha, NE 68114, United States","7419 DODGE ST
+
+OMAHA NE 68114-3615",Selecione,Automático
