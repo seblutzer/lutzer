@@ -1580,3 +1580,19 @@ Lat, Lng	43.052566, -76.154671","{""type"":""Feature"",""properties"":{""id"":""
 43.153295, -77.608161","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-76.154513,43.052744],[-76.154513,43.052619],[-76.154597,43.052619],[-76.154601,43.052496],[-76.154757,43.052498],[-76.154748,43.052744],[-76.154513,43.052744]]]}}",Dinosaur Bar-B-Que,https://dinosaurbarbque.com/locations/syracuse,"246 W Willow St, Syracuse, NY 13202, United States","246 W WILLOW ST
 
 SYRACUSE NY 13202-1040",Y,Automático
+"Query Locale:	en_US
+Query:	Dinosaur BBQ
+Viewport age:	STALE
+User location:	42.978516, -76.816410
+Viewport location:	43.045182, -76.589488
+43.142663,-76.448192","Dinosaur Bar-B-Que
+Address	99 Court St.
+Rochester, NY 14604
+United States
+Classification	Barbecue
+Distance to User	67.19 km
+Distance to Viewport	94.11 km
+Lat, Lng	43.153295, -77.608161","{""type"":""Feature"",""properties"":{""id"":""polygon_0""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-77.608038,43.153554],[-77.607975,43.153217],[-77.608414,43.15321],[-77.608628,43.153289],[-77.608733,43.153362],[-77.6088,43.153427],[-77.608038,43.153554]]]}}","(43.002654, -76.152938)
+43.052566, -76.154671","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-77.608661,43.153448],[-77.608662,43.153348],[-77.608551,43.153351],[-77.608547,43.153261],[-77.608357,43.153267],[-77.608354,43.153223],[-77.608002,43.153234],[-77.607993,43.153345],[-77.608276,43.153332],[-77.608272,43.153477],[-77.608516,43.153465],[-77.608521,43.153455],[-77.608661,43.153448]]]}}",Dinosaur Bar-B-Que,https://dinosaurbarbque.com/locations/rochester,"99 Court St, Rochester, NY 14604, United States","99 COURT ST
+
+ROCHESTER NY 14604-1824",Y,Automático
