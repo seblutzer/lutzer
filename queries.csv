@@ -1951,3 +1951,30 @@ Lat, Lng	41.135102, -96.025452","{""type"":""Feature"",""properties"":{""id"":""
 41.22323087147092, -95.83811397461002","{""type"":""Feature"",""properties"":{""id"":""polygon_1""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-96.025621,41.135086],[-96.025517,41.134993],[-96.025278,41.13514],[-96.025366,41.135225],[-96.025621,41.135086]]]}}",Freddy's Frozen Custard & Steakburgers,https://www.freddys.com/location/papillion-ne,"11674 S 73rd St, Papillion, NE 68046, Estados Unidos","11674 S 73RD ST
 
 PAPILLION NE 68046-1500",Y,Automático
+"Query Locale:	en-US_US
+Query:	caltrain in san francisco
+Viewport age:	FRESH
+User location:	37.554020, -122.327271
+Viewport location:	37.540552, -122.319614
+37.570603,-122.296939
+","22nd St Station
+Address	
+San Francisco, CA
+United States
+Classification	Train Station
+Distance to User	23.34 km
+Distance to Viewport	21.25 km
+Lat, Lng	37.757505, -122.392468","37.70802252451526, -122.50266209600133
+37.70825331191937, -122.39414365621478
+37.70456062721092, -122.35534539682875
+37.83784208915408, -122.35767912674783
+37.80189360229456, -122.54262722036253
+37.7105611469658, -122.5213319351356","41.231223, -96.196769
+41.204688, -96.126779
+41.258694, -96.027926
+40.844481, -96.681591
+41.297335993856464, -96.02492129098411
+41.28948919837946, -96.17844419079476
+41.22323087147092, -95.83811397461002","{""type"":""Feature"",""properties"":{""id"":""polygon_0""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-122.392602,37.7572],[-122.392374,37.757205],[-122.392327,37.757826],[-122.392695,37.757802],[-122.392698,37.757578],[-122.392602,37.7572]]]}}",22nd St Station,,"San Francisco, CA
+United States","San Francisco, CA
+United States",Y,Automático
