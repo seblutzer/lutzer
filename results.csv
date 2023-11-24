@@ -87,4 +87,4 @@ Embarcadero_bart_Station_user_37.389908_-122.031326_result_37.793197_-122.396433
 Chic_fil_a_user_32.802429_-96.630249_result_33.025611_-97.280071,FRESH,True,implicit,user,chain_business,chain_business,-4,True,18,True,Primary,Acceptable
 Burger_king_caldwell_user_43.57178_-116.257324_result_43.548748_-116.569875,FRESH,False,explicit,interest,chain_business,chain_business,-2,False,2,True,Primary,Acceptable
 200_Hudson_user_38.056641_-101.777344_result_39.719714_-104.923138,FRESH,False,implicit,viewport,address,address,-1,False,1,True,Secondary,Good
-schools_user_40.768204_-73.964767_result_40.768677_-73.964789,FRESH,True,implicit,user,,categorical,-1,True,0,True,Primary,Excellent
+schools_user_40.768204_-73.964767_result_40.768677_-73.964789,FRESH,True,implicit,user,chain_business,categorical,-1,True,0,True,Primary,Excellent
