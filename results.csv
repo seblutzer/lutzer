@@ -92,3 +92,4 @@ schools_user_40.768204_-73.964767_result_40.768677_-73.964789,FRESH,True,implici
 Chick-Fil-A_user_39.020691_-77.151489_result_39.053906_-77.116369,FRESH,True,implicit,user,chain_business,chain_business,-2,True,1,True,Primary,Good
 "Freddy's_Steakburgers_Papillion,_NE_user_40.754266_-96.634721_result_41.135102_-96.025452",FRESH,False,implicit,viewport,chain_business,,-1,False,7,True,Primary,Bad
 caltrain_san_francisco_user_37.55402_-122.327271_result_37.757505_-122.392468,FRESH,True,explicit,interest,chain_business,categorical,0,True,2,True,Primary,Excellent
+"1724_Edmond_St_Saint_Joseph,_MO_user_39.753392_-94.869998_result_39.765693_-94.838895",FRESH,False,explicit,viewport,address,address,0,False,0,False,Primary,Excellent
