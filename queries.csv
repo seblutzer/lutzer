@@ -1985,3 +1985,18 @@ Lat, Lng	37.757505, -122.392468","37.70802252451526, -122.50266209600133
 37.629201903059084, -122.41083975597458","{""type"":""Feature"",""properties"":{""id"":""polygon_0""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-122.392602,37.7572],[-122.392374,37.757205],[-122.392327,37.757826],[-122.392695,37.757802],[-122.392698,37.757578],[-122.392602,37.7572]]]}}",22nd St Station,https://www.caltrain.com/station/22ndstreet,"San Francisco, CA
 United States","San Francisco, CA
 United States",Y,Automático
+"Query Locale:	en_US
+Query:	1724 Edmond St Saint Joseph, MO
+Viewport age:	FRESH
+User location:	39.753392, -94.869998
+Viewport location:	39.074670, -94.672711
+39.318941,-94.412769","1724 Edmond St
+Address	1724 Edmond St
+Saint Joseph, MO 64501
+United States
+Classification	
+Distance to User	2.99 km
+Distance to Viewport	49.68 km
+Lat, Lng	39.765693, -94.838895",,,,,,"1724 Edmond St, St Joseph, MO 64501, United States","1724 EDMOND ST
+
+SAINT JOSEPH MO 64501-",N,Automático
