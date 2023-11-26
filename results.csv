@@ -95,3 +95,4 @@ caltrain_san_francisco_user_37.55402_-122.327271_result_37.757505_-122.392468,FR
 "1724_Edmond_St_Saint_Joseph,_MO_user_39.753392_-94.869998_result_39.765693_-94.838895",FRESH,False,explicit,viewport,address,address,0,False,0,False,Primary,Excellent
 Costco_Gasoline_user_33.895569_-117.493286_result_33.728458_-117.795806,FRESH,False,implicit,viewport,chain_business,chain_business,-1,False,1,True,Non-Relevant,Bad
 830_Park_user_33.54841533905618_-117.77006872065371_result_34.44545427273252_-119.61681662546498,FRESH,True,implicit,user,address,address,-3,False,2,True,Non-Relevant,Bad
+830_Park_user_33.54841533905618_-117.77006872065371_result_34.44543356309601_-119.61678397884758,FRESH,True,implicit,user,address,address,-3,False,2,True,Non-Relevant,Bad
