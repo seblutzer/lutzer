@@ -2440,3 +2440,49 @@ Lat, Lng
 34.44560752387331, -119.61689949767594
 34.44567793648161, -119.61659312168449",,,"830 Park Ln, Montecito, CA 93108, United States","830 Park Lane
 Santa Barbara CA 93108",Y,Automático
+"Query
+
+Cacau show
+
+Viewport Age
+
+FRESH
+
+Locale
+
+pt_BR
+
+Country
+
+Brazil
+
+User Lat, Lng
+
+-5.143311,-42.759125
+-5.146418, -42.754794
+-5.134291,-42.74444","Cacau Show
+
+Address
+Avenida Raul Lopes, 1000
+Noivos
+Teresina - PI
+64046-902
+Brasil
+
+Classification
+Chocolateria
+
+Type
+ADDRESS
+
+Status
+Distance to User
+7.289 km
+
+Distance to Viewport
+7.414 km
+
+Lat, Lng
+-5.085006, -42.789795","-5.073842, -42.791766
+-5.078496, -42.794427
+",,"{""type"":""Feature"",""properties"":{""id"":""polygon_0""},""geometry"":{""type"":""Polygon"",""coordinates"":[[[-42.787974,-5.085701],[-42.787908,-5.085607],[-42.787901,-5.085481],[-42.788973,-5.084209],[-42.789208,-5.084091],[-42.789679,-5.083552],[-42.789881,-5.08372],[-42.790426,-5.083138],[-42.790789,-5.083179],[-42.790959,-5.083315],[-42.791151,-5.083445],[-42.790944,-5.083767],[-42.791521,-5.084274],[-42.79064,-5.085305],[-42.790251,-5.085543],[-42.789676,-5.086186],[-42.789534,-5.08636],[-42.789392,-5.086477],[-42.789255,-5.086383],[-42.789127,-5.086391],[-42.788952,-5.086545],[-42.787974,-5.085701]]]}}",,,Cacau Show,,"Avenida Raul Lopes, 1000 Noivos, Teresina - PI, 64046-902, Brasil","Avenida Raul Lopes, 1000 Noivos, Teresina - PI, 64046-902, Brasil",Selecione,Automático
