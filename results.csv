@@ -97,4 +97,4 @@ Costco_Gasoline_user_33.895569_-117.493286_result_33.728458_-117.795806,FRESH,Fa
 830_Park_user_33.54841533905618_-117.77006872065371_result_34.44545427273252_-119.61681662546498,FRESH,True,implicit,user,address,address,-3,False,2,True,Non-Relevant,Bad
 830_Park_user_33.54841533905618_-117.77006872065371_result_34.44543356309601_-119.61678397884758,FRESH,True,implicit,user,address,address,-3,False,2,True,Non-Relevant,Bad
 Cacau_show_user_-5.143311_-42.759125_result_-5.085006_-42.789795,FRESH,True,implicit,user,chain_business,chain_business,-4,False,18,True,Primary,Bad
-830_Park_user_33.5484153390561_-117.770068720653_result_34.4454197571154_-119.616423805526,FRESH,True,implicit,user,address,address,-1,False,0,True,Primary,Navigational
+830_Park_user_33.5484153390561_-117.770068720653_result_34.4454197571154_-119.616423805526,FRESH,True,implicit,user,address,address,-2,False,1,True,Secondary,Good
