@@ -100,3 +100,4 @@ Cacau_show_user_-5.143311_-42.759125_result_-5.085006_-42.789795,FRESH,True,impl
 830_Park_user_33.5484153390561_-117.770068720653_result_34.4454197571154_-119.616423805526,FRESH,True,implicit,user,address,address,-3,False,2,True,Non-Relevant,Bad
 830_Park_santa_barbara_user_33.5484153390561_-117.770068720653_result_34.4454197571154_-119.616423805526,FRESH,True,explicit,interest,address,address,0,False,0,True,Primary,Navigational
 bars_user_32.7615751553348_-117.146878555203_result_32.7623492290501_-117.146125431172,FRESH,False,implicit,viewport,chain_business,categorical,0,True,2,True,Primary,Excellent
+starbucks_user_37.7849149244558_-122.408586356847_result_37.7929151822138_-122.404320520876,FRESH,True,implicit,user,chain_business,chain_business,-3,False,2,True,Primary,Acceptable
