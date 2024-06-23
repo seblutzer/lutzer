@@ -106,3 +106,4 @@ starbucks_user_37.7849149244558_-122.408586356847_result_37.7840751949327_-122.4
 skools_user_32.7945771028268_-117.19737916253_result_32.8815846910044_-117.234886294823,FRESH,True,implicit,user,chain_business,,-1,True,1,True,Primary,Excellent
 "84_Water_St,_St._Augustine_FL_user_29.886828518206173_-81.32979081867816_result_37.786881679682_-122.40732732784",STALE,True,explicit,user,chain_business,address,-1,False,1,True,Primary,Bad
 bars_user_32.7615751553348_-117.146878555203_result_32.7600282833949_-117.130482255093,FRESH,True,implicit,user,chain_business,categorical,-3,False,3,True,Primary,Acceptable
+starbucks_user_37.7849149244558_-122.408586356847_result_37.7861210193424_-122.409329134637,FRESH,True,implicit,user,chain_business,chain_business,-1,False,0,True,Primary,Excellent
