@@ -11,7 +11,7 @@ Northgate_user_32.79394596284677_-117.02055419648923_result_32.74712253498077_-1
 bars_user_32.761575155334846_-117.14687855520339_result_32.76271848857157_-117.13038169172331,FRESH,True,implicit,user,chain_business,categorical,-3,True,6,True,Primary,Acceptable
 skools_user_32.7945771028268_-117.19737916253096_result_32.881584691004456_-117.23488629482395,FRESH,True,implicit,user,,,0,True,1,True,Non-Relevant,Bad
 "122_Paige_St._Owego,_NY_user_42.165527_-76.003418_result_42.108268_-76.260149",STALE,False,explicit,user,address,address,0,False,0,True,Primary,Navigational
-"6900_Barker_Way,_San_Diego_user_32.69862261905797_-116.9181868335637_result_32.80940449690931_-117.02182590976206",STALE,False,explicit,user,address,address,0,False,0,False,Primary,Excellent
+"6900_Barker_Way,_San_Diego_user_32.69862261905797_-116.9181868335637_result_32.80940449690931_-117.02182590976206",STALE,False,explicit,user,address,address,-1,True,0,True,Non-Relevant,Bad
 "86_Water_St,_St._Augustine_FL_user_29.886828518206173_-81.32979081867816_result_29.903374249262114_-81.31332727461009",STALE,True,explicit,user,address,address,0,False,0,False,Primary,Excellent
 "134_Paige_St._Owego,_NY_user_42.165527_-76.003418_result_42.108268_-76.260149",STALE,False,explicit,user,address,address,0,False,0,False,True,Excellent
 climbing_gym_user_34.03953740463502_-118.23871158279924_result_33.89982601990623_-118.36444298196997,STALE,False,implicit,user,chain_business,categorical,-3,True,2,True,Primary,Bad
