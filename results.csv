@@ -113,3 +113,4 @@ starbucks_user_37.7849149244558_-122.408586356847_result_37.786881679682_-122.40
 pizza__near_me_user_29.476460903675_-98.4623592945046_result_29.4742205693834_-98.4622988645437,FRESH,False,explicit,user,,chain_business,-1,False,0,True,Primary,Bad
 bars_user_32.7615751553348_-117.146878555203_result_32.7627184885715_-117.130381691723,FRESH,False,implicit,viewport,chain_business,categorical,0,True,2,True,Primary,Excellent
 climbing_gym_user_34.039537404635_-118.238711582799_result_33.8998260199062_-118.364442981969,STALE,False,implicit,user,chain_business,categorical,-2,True,2,True,Primary,Good
+bakery_user_45.5007964734262_-122.639840728938_result_45.5048871888313_-122.630738835511,FRESH,True,implicit,user,chain_business,categorical,-2,True,2,True,Primary,Good
