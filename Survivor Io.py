@@ -29,59 +29,22 @@ def move():
 def executar_acoes():
     #choose_level()
     for i in range(250):
-        # Pressionar as teclas direcionais sucessivamente com intervalo de 1 segundo
-        #pyautogui.press(move())
-        pyautogui.click(random.choice([70, 200, 330]), 540) # Left Path
-        pyautogui.click(200, 730)  # Next
-        #pyautogui.click(200, 600)  # Revive
+        # Press the arrow keys successively with an interval of 1 second
+        pyautogui.press(move())
+        pyautogui.click(random.choice([70, 200, 330]), 540) # Choose a ramdom skill Path
+        pyautogui.click(200, 730)  # Click Next
+        pyautogui.click(200, 600)  # Revive if Needed
         pyautogui.click(200, 780)
         time.sleep(0.5)
         if i % 10 == 0 and i != 0:
-            pyautogui.click(315, 800)
+            pyautogui.click(263, 780) # Click outside the challenge box
+            pyautogui.click(315, 450) # Click in the 3rd challenge box
             time.sleep(0.2)
-            pyautogui.click(200, 695)
-            pyautogui.click(315, 800)
-            pyautogui.click(315, 800)
-            time.sleep(0.2)
-            pyautogui.click(200, 695)
-
-            pyautogui.click(263, 780)
-            pyautogui.click(315, 450)
-            time.sleep(0.2)
-            pyautogui.click(200, 695)
-
-    #choose_level()
-
-def choose_level():
-    pyautogui.click(340, 333)  # close chapter
-    time.sleep(0.5)
-    pyautogui.click(340, 333)  # close chapter
-    for i in range(2):  # Repetir duas vezes como no exemplo
-        time.sleep(0.5)  # Pausa antes de cada arraste
-        pyautogui.moveTo(345, 800, duration=0.5)  # Mover suavemente para a posição inicial
-        pyautogui.mouseDown()  # Pressionar o botão do mouse
-        pyautogui.moveTo(345, 180, duration=0.5)  # Arrastar o mouse para a posição final
-        pyautogui.mouseUp()  # Soltar o botão do mouse
-    pyautogui.click(75, 400) #prize 1
-    time.sleep(1)
-    pyautogui.click(200, 760)
-    time.sleep(0.5)
-    pyautogui.click(200, 400) #prize 2
-    time.sleep(1)
-    pyautogui.click(200, 760)
-    time.sleep(0.5)
-    pyautogui.click(330, 400) #prize 3
-    time.sleep(1)
-    pyautogui.click(200, 760)
-    time.sleep(0.5)
-    pyautogui.click(330, 230) # next level
-    time.sleep(0.5)
-    pyautogui.click(200, 695)  # Play
+            pyautogui.click(200, 695) # Start the match
 
 # Função chamada ao pressionar o botão "Começar"
 def start_task():
     btn_start.config(state='disabled')
-    btn_stop.config(state='disabled')
 
     # Executar as ações em uma thread para não travar a interface
     task_thread = threading.Thread(target=executar_acoes)
@@ -91,7 +54,6 @@ def start_task():
     def enable_buttons():
         task_thread.join()
         btn_start.config(state='normal')
-        btn_stop.config(state='normal')
 
     watching_thread = threading.Thread(target=enable_buttons)
     watching_thread.start()
@@ -107,7 +69,7 @@ def mark_point():
 
 # Criar a janela principal
 janela = tk.Tk()
-janela.title("Programa com Botões")
+janela.title("Survivor.IO challenges")
 
 janela.attributes('-topmost', True)
 
