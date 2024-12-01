@@ -110,10 +110,10 @@ janela = tk.Tk()
 janela.title("Programa com Botões")
 
 # Configurar os botões
-btn_start = tk.Button(janela, text="Começar", command=start_task)
+btn_start = tk.Button(janela, text="Start", command=start_task)
 btn_start.pack(pady=10)
 
-btn_mark = tk.Button(janela, text="Marcar", command=mark_point)
+btn_mark = tk.Button(janela, text="Mark", command=mark_point)
 btn_mark.pack(pady=10)
 
 # Iniciar o loop da interface
