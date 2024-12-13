@@ -1,4 +1,5 @@
 import tkinter as tk
+from tkinter import ttk  # Para usar a Combobox
 import pyautogui
 import time
 import threading
@@ -25,22 +26,35 @@ def move():
 
     return move
 
+# Dicionário com as chaves e suas posições
+points = {
+    'Ability 1': [70, 540],
+    'Ability 2': [200, 540],
+    'Ability 3': [330, 540],
+    'Next': [200, 730],
+    'Revive': [200, 600],
+    'Resume': [200, 780],
+    'Outside box': [263, 780],
+    'Challenge': [315,450],
+    'Start Challenge': [200, 695]
+}
+
 # Função para executar as ações
 def executar_acoes():
     #choose_level()
-    for i in range(250):
+    for i in range(10000):
         # Press the arrow keys successively with an interval of 1 second
         pyautogui.press(move())
-        pyautogui.click(random.choice([70, 200, 330]), 540) # Choose a ramdom skill Path
-        pyautogui.click(200, 730)  # Click Next
-        pyautogui.click(200, 600)  # Revive if Needed
-        pyautogui.click(200, 780)
+        pyautogui.click(random.choice([points['Ability 1'][0], points['Ability 2'][0], points['Ability 3'][0]]), points['Ability 1'][1]) # Choose a ramdom skill Path
+        pyautogui.click(points['Next'][0], points['Next'][1])  # Click Next
+        pyautogui.click(points['Revive'][0], points['Revive'][1])  # Revive if Needed
+        pyautogui.click(points['Resume'][0], points['Resume'][1]) # Resume
         time.sleep(0.5)
         if i % 10 == 0 and i != 0:
-            pyautogui.click(263, 780) # Click outside the challenge box
-            pyautogui.click(315, 450) # Click in the 3rd challenge box
+            pyautogui.click(points['Outside box'][0], points['Outside box'][1]) # Click outside the challenge box
+            pyautogui.click(points['Challenge'][0], points['Challenge'][1]) # Click in the 3rd challenge box
             time.sleep(0.2)
-            pyautogui.click(200, 695) # Start the match
+            pyautogui.click(points['Start Challenge'][0], points['Start Challenge'][1]) # Start the match
 
 # Função chamada ao pressionar o botão "Começar"
 def start_task():
@@ -61,24 +75,59 @@ def start_task():
 
 # Função chamada ao pressionar o botão "Terminar" (simplesmente fecha o programa)
 def stop_program():
-    janela.destroy()
+    app.destroy()
 
-def mark_point():
-    time.sleep(2)
-    print(pyautogui.position())
+# Função para realizar a marcação de um ponto
+def mark_point(selected_key_combobox, status_label):
+    # Obter a chave selecionada pela Combobox
+    selected_key = selected_key_combobox.get()
 
-# Criar a janela principal
-janela = tk.Tk()
-janela.title("Survivor.IO challenges")
+    # Verificar se alguma chave foi selecionada
+    if not selected_key:
+        status_label.config(text="Escolha uma opção antes de marcar!")
+        return
 
-janela.attributes('-topmost', True)
+    # Avisar o usuário para posicionar o mouse
+    status_label.config(text=f"Posicione o mouse para {selected_key}. Marcaremos em 2 segundos...")
+
+    # Usar uma thread para evitar travar a interface
+    def worker():
+        time.sleep(2)  # Esperar 2 segundos
+        current_position = [pyautogui.position().x, pyautogui.position().y]  # Capturar a posição do mouse
+        points[selected_key] = current_position  # Salvar a posição na chave do dicionário
+        status_label.config(text=f"{selected_key} atualizado para posição {current_position}!")
+        print(f"{selected_key} atualizado para posição {current_position}!")
+
+    threading.Thread(target=worker).start()
+
+
+# Criar a interface gráfica
+app = tk.Tk()
+app.title("Marcar Ponto")
+app.geometry("150x110")
 
 # Configurar os botões
-btn_start = tk.Button(janela, text="Start", command=start_task)
-btn_start.pack(pady=10)
+btn_start = tk.Button(app, text="Start", command=start_task)
+btn_start.pack()
 
-btn_mark = tk.Button(janela, text="Mark Point", command=mark_point)
-btn_mark.pack(pady=10)
+# Rótulo explicativo
+tk.Label(app, text="Selecione uma opção e clique em 'Marcar Ponto':").pack()
 
-# Iniciar o loop da interface
-janela.mainloop()
+# Variável para armazenar a seleção do menu suspenso
+selected_key_var = tk.StringVar(app)
+selected_key_var.set("Options")  # Configurar valor padrão
+
+# Criar o menu suspenso (OptionMenu)
+options_menu = tk.OptionMenu(app, selected_key_var, *points.keys())
+options_menu.pack()
+
+# Botão para marcar o ponto
+mark_button = tk.Button(app, text="Mark Point", command=lambda: mark_point(selected_key_var, status_label))
+mark_button.pack()
+
+# Rótulo para exibir o status
+status_label = tk.Label(app, text="", fg="blue")
+status_label.pack()
+
+# Rodar o loop principal
+app.mainloop()
